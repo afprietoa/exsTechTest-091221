@@ -1,0 +1,29 @@
+body{
+   background: #ecf0f1;
+}
+
+
+Form{
+   margin-left: 40%;
+}
+.btn-outline-dark{
+    color:white;
+    height: 38px;
+    background:black;
+    border: 1px solid white;
+    
+}
+.inputSearch{
+    height: 35px;
+    margin:0;
+    padding:0;
+}
+.TxtCard p{
+    line-height: 0px;
+    padding: 0;
+    margin: 0;
+}
+
+.TitleCard{
+font-size:20px;
+}
